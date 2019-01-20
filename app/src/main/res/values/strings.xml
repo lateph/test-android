@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test SDK</string>
+    <string name="enroll">WmsService.enrollCard</string>
+    <string name="TncCallback">TncCallback.accept</string>
+    <string name="selectIdvOption">SelectIdvOptionCallback.selectIdvOption</string>
+    <string name="submitOtp">OtpAuthCallback.submitOtp</string>
+</resources>
